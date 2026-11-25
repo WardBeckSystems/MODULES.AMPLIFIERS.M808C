@@ -1,0 +1,61 @@
+{
+ "code": "M808C",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "15 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "2",
+   "signal": "ENERGIZED BY MOMENTARILY GROUNDING THE CONTROL T",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "BE TIED TOGETHER THEN, THE CANCEL BUSS",
+   "kind": "audio",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "INPUT ONE",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "S",
+   "signal": "INPUT ONE",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp"
+ ]
+}
