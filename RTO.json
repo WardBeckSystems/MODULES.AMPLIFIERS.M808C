@@ -16,7 +16,7 @@
    "polarity": null,
    "confidence": "medium",
    "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+   "file": "Modules/AMPLIFIERS/M808C/MANUALS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
    "page": 1
   },
   {
@@ -27,7 +27,7 @@
    "polarity": null,
    "confidence": "medium",
    "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+   "file": "Modules/AMPLIFIERS/M808C/MANUALS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
    "page": 1
   },
   {
@@ -38,7 +38,7 @@
    "polarity": null,
    "confidence": "medium",
    "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+   "file": "Modules/AMPLIFIERS/M808C/MANUALS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
    "page": 1
   },
   {
@@ -49,13 +49,13 @@
    "polarity": null,
    "confidence": "medium",
    "read_from": "prose",
-   "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+   "file": "Modules/AMPLIFIERS/M808C/MANUALS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
    "page": 1
   }
  ],
  "straps": [],
  "power": [],
  "sources": [
-  "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp"
+  "Modules/AMPLIFIERS/M808C/MANUALS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp"
  ]
 }

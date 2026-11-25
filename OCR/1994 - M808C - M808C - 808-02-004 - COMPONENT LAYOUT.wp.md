@@ -135,7 +135,7 @@ MW94001/M808C .wp
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M808C/SCHEMATICS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
+ "file": "Modules/AMPLIFIERS/M808C/MANUALS/1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp",
  "sha256": "dec8071402c09cd1d4ea896e5280f8dc83006c1ff7f236a1bcbddb192356d80d",
  "kind": "module",
  "models": [
