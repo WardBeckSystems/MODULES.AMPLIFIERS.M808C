@@ -1,11 +1,11 @@
-# M808C · Amplifiers
+# M808C Relay Switcher · Amplifiers
 
 Ward-Beck Systems M808C, 1994|27. Wiki page: [M808C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M808C.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
