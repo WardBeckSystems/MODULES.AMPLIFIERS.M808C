@@ -1,6 +1,6 @@
 # M808C Relay Switcher · Amplifiers
 
-Ward-Beck Systems M808C, 1994|27. Wiki page: [M808C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M808C.html)
+Ward-Beck Systems M808C, 1994|27. Wiki page: [M808C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M808C-Relay-Switcher/)
 
 | Folder | What is in it | Files |
 |---|---|---|

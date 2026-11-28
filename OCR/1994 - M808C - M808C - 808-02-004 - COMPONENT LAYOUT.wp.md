@@ -1,5 +1,5 @@
 # 1994 - M808C - M808C - 808-02-004 - COMPONENT LAYOUT.wp
-Wiki page: [M808C](../../../../PAGES/M808C.md)
+Wiki page: [M808C](../)
 
 
 - **Year:** 1994 (original file date 1994-08-09)
